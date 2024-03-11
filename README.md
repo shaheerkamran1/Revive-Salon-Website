@@ -6,6 +6,8 @@ This repository contains the code for the Revive Salon project, a web applicatio
 
 To run the backend, execute the following command:
 ```
+cd Backend
+npm i
 npm start
 ```
 
@@ -13,6 +15,7 @@ To run the frontend, navigate to the Frontend directory, then to the revive-proj
 ```
 cd Frontend
 cd revive-project
+npm i
 ```
 Then enter the command: 
 ```
