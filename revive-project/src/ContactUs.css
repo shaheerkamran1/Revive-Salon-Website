@@ -1,0 +1,12 @@
+ #textInput{
+    border: 1px outset rgb(41, 40, 40);
+}
+
+#formBorder{
+    border: 5px inset rgb(60, 59, 59);
+} 
+
+.input, .textarea, .number{
+
+    color: initial;
+}

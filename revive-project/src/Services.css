@@ -1,0 +1,25 @@
+*{
+    --tw-border-spacing-x: 50px;
+    --tw-border-spacing-y: 50px;
+}
+body{
+    margin-left: 150px;
+}
+ h1{
+    font-weight: bold;
+}
+.PageHeading{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    font-family: none;
+    height: 100px;
+    padding: 25px;
+     
+}
+
+input{
+    color: black;
+}
+
+

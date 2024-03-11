@@ -1,0 +1,15 @@
+.Banner{
+    color:  white ;
+    background-color: black ;
+    text-align: center;
+    font-family: none;;
+    font-weight: bold;
+    padding: 25px;
+    height: 100px;
+    font-size: 40px;
+
+}
+
+.AboutUsText{
+    margin-right: 500px;
+}

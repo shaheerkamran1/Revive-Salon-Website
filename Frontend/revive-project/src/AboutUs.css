@@ -1,0 +1,46 @@
+.Banner{
+    color:  white ;
+    background-color: black ;
+    text-align: center;
+    font-family: sans-serif;;
+    font-weight: bold;
+    padding: 25px;
+    height: 100px;
+    font-size: 40px;
+
+}
+
+.AboutUsText{
+    margin-right: 500px;
+}
+
+.note{
+    color:black;
+    position: relative;
+    animation-name: note;
+    animation-duration: 2s;
+}
+
+@keyframes note {
+    0% {top: -200px}
+    100% {top:0px}
+}
+
+.banner{
+
+    position: relative;
+    animation-name: banner;
+    animation-duration: 2s;
+}
+
+.banner:hover{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    transition: 0.5s;
+    border-radius: 50px;
+}
+
+@keyframes banner {
+    0% {left: -1000px}
+    100% {left:0px}
+}
